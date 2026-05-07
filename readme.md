@@ -14,7 +14,7 @@
   <a href="https://xinxiaozhe12345.github.io/CoInteract_Project/"><img src="https://img.shields.io/badge/Project-Page-lue"></a>
 </p>
 
-## Demob
+## Demo
 <p align="center">
   <video src="https://github.com/user-attachments/assets/fe59a768-38e8-4403-bd13-155662c628d6" controls width="80%"></video>
 </p>
